@@ -1,1 +1,1 @@
-# ArgoCd2024
+# ARGOCD
