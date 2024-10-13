@@ -1,1 +1,1 @@
-# AgroCd2024
+# ArgoCd2024
